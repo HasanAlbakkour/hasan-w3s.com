@@ -1,0 +1,27 @@
+*{
+background:linear-gradient(orange,blue);
+}
+body{
+    height: 100vh;
+    background-repeat:no-repeat ;
+    background: #333;
+}
+.dv{
+    height:auto;
+    width: 100px;
+    border: 2px  red solid;
+}
+ h1{
+  font-size: 65px;
+  font-family: cairo;
+  font-weight: 100;
+  align-items: center;
+  padding: 10px;
+  color: aqua; 
+  text-align:center;
+  font-style: oblique; 
+}
+video{
+    border: 2px white solid;
+    border-radius:50% ;
+}

@@ -1,0 +1,11 @@
+body{
+    background:linear-gradient(white,green,orange);
+    background-repeat:no-repeat ;
+    background-size: cover ;
+}
+.h1h{
+    font-size: 70px;
+    font-family: cairo;
+    text-align: center;
+    text-shadow: 3px 3px lightsalmon;
+}
